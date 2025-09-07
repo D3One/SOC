@@ -52,7 +52,7 @@ This repository contains conceptual examples of use cases designed for the open-
 
 ## Author & Contribution
 
-This collection of use cases was conceptualized and documented by [Your Name/Alias Here].
+This collection of use cases was conceptualized and documented by Ivan Piskunov.
 
 Contributions, suggestions, and additional use cases are welcome. Please feel free to open an Issue or submit a Pull Request.
 
